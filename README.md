@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Max-Nux](https://github.com/Max-Nux)
 
-- 💬 Ask me about **HTML, CSS, Phython**
+- 💬 Ask me about **HTML, CSS, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
