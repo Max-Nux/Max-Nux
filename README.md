@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
+![Max-Nux's Stats](https://github-readme-stats.vercel.app/api?username=Max-Nux&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
 ![Max-Nux's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Max-Nux&theme=dark&hide_border=true)
 
 - 🔭 I’m currently working on [SDG_School Procject](https://github.com/Max-Nux/SDG-Project_Max)
